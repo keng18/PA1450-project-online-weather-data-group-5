@@ -61,6 +61,6 @@ def main():
             temperature(list_temperatur)
 
 main()
+print(fthis)
 
 
-funkar det nu då
