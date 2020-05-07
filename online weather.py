@@ -34,6 +34,8 @@ def temperature(list_temperatur):
 
 
 def sunshine(list_sol):
+    "blabl"
+
 
 
 def rain(list_neder):
