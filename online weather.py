@@ -61,6 +61,5 @@ def main():
             temperature(list_temperatur)
 
 main()
-print(fkthis)
-
+mmmmmmm
 
