@@ -63,5 +63,4 @@ def main():
 main()
 
 
-funkar Git skiten nu 
-hej igen 
+funkar det nu då
